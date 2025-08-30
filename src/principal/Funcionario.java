@@ -1,4 +1,4 @@
-package pricipal;
+package principal;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
